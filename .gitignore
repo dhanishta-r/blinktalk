@@ -1,0 +1,13 @@
+# Python environment (reinstall with: pip install -r requirements.txt)
+.venv/
+
+# Downloaded AI model (download again with the curl command in README.md)
+models/
+
+# Python and Mac clutter
+__pycache__/
+.DS_Store
+
+# Screen recordings / videos (too large for GitHub)
+*.mov
+*.mp4
