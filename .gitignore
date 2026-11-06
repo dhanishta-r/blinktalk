@@ -11,3 +11,5 @@ __pycache__/
 # Screen recordings / videos (too large for GitHub)
 *.mov
 *.mp4
+
+data/
